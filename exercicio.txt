@@ -1,0 +1,9 @@
+#Exercicio 1: Comparando a eficacia de filtros de suavização
+#objetivo: avaliar a eficacia de diferentes filtros de suavização
+#no tratamento de ruídos aplicados a uma imagem
+
+#aplique dois tipos de ruidos a imagem: ruido gaussiano e ruido sal e pimenta
+
+#filtros: filtros de media (gaussiano), filtro de mediana, filtro bilateral
+
+
