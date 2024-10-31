@@ -14,18 +14,21 @@
 
 Segue as Imagens utilizadas:
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/620346d4-a795-4d8f-bef1-eeb1b5058a51)
 
-![alt text](image-3.png)
+
+![image](https://github.com/user-attachments/assets/6c9b38df-549e-487e-b86e-30840c856d4d)
+
 
 
 Neste projeto fiz um módulo chamado "ruidos_e_filtros.py" e também um "main.py", onde "ruidos_e_filtros" estão as funções de ruídos "sal e pimenta" e "gaussiano" e também filtros "média", "mediana" e "bilateral". O Módulo main.py está a parte de exibição utilizando a biblioteca matplotlib, as imagens são exibidas em GrayScale ou seja em preto e branco e plotadas em grade. Segue os exemplos utilizando a imagem de um gato:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/befc7177-4187-4287-a42c-6a008932d7e9)
+
 
 Neste exemplo podemos perceber como houve até uma melhora na imagem com ruido "gaussiano", mas o ruido de "sal e pimenta", está pouco visivel, então vejamos outro exemplo:
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/cc3d4e18-63af-40c8-8e1e-d9b76e936db7)
 
 
 Aqui podemos ver as mudanças no ruído de "sal e pimenta".
@@ -33,16 +36,14 @@ Aqui podemos ver as mudanças no ruído de "sal e pimenta".
 
 E comparação com os dois ruidos e aplicação dos filtros:
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/207aef6e-42c8-4751-8d7a-057377d8de33)
 
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/e0e7b510-3c89-4dd9-bec8-ded25905e157)
+
 
 
 No ruido "sal e pimenta" o filtro de "mediana" se mostrou mais eficaz em remover os ruídos da imagem.
 
 ja o ruido "gaussiano" apesar da "média" ter sido eficaz, "suavizou" demais a imagem, por esse motivo o filtro
 de "bilateral" foi mais eficaz nesse ruído.
-
-
-# Ruidos_Filtros
